@@ -1,0 +1,75 @@
+# Temperature Converter
+
+## Overview
+
+Temperature Converter is a responsive web application developed using HTML, CSS and JavaScript. It allows users to convert temperature values accurately between Celsius, Fahrenheit and Kelvin through a simple and user-friendly interface.
+
+## Features
+
+- Convert Celsius to Fahrenheit and Kelvin
+- Convert Fahrenheit to Celsius and Kelvin
+- Convert Kelvin to Celsius and Fahrenheit
+- Instant conversion
+- Input validation
+- Reset button
+- Responsive design
+- Modern and clean user interface
+- Beginner-friendly project structure
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Project Structure
+
+TemperatureConverter/
+
+├── index.html
+
+├── style.css
+
+├── script.js
+
+├── README.md
+
+└── screenshot.png
+
+## How to Run
+
+1. Download or clone the repository.
+2. Open the project folder.
+3. Double-click **index.html** or open it in any web browser.
+4. Enter a temperature value.
+5. Select the source and destination units.
+6. Click the **Convert** button to view the result.
+
+## Learning Outcomes
+
+Through this project I improved my understanding of:
+
+- HTML forms
+- CSS styling
+- Responsive web design
+- JavaScript DOM Manipulation
+- User input validation
+- Temperature conversion logic
+
+## Future Improvements
+
+- Dark Mode
+- Conversion History
+- Copy Result Button
+- Live Conversion
+- Better Animations
+
+## Author
+
+**Braj Morchhale**
+
+Frontend Developer
+
+---
+
+Developed as part of a Web Development Internship Project.
